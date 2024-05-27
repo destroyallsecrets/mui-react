@@ -1,7 +1,7 @@
 const songsList = [
     {
-        name: "Jazz In Paris",
-        artist: "Media Right Productions",
+        name: "LOSTBOYZINTHEHOOD-THE BLAME GAME",
+        artist: "LOSTBOYZINTHEHOOD",
         src: "assets/1.mp3",
         cover: "assets/1.jpg"
     },
